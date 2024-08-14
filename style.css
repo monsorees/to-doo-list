@@ -24,7 +24,6 @@
 
 .form {
   width: 500px;
-  height: 500px;
   background-color: white;
   border-radius: 10px;
   box-shadow: 1px 1px 1px 1px rgb(0, 0, 0, 0.7);
@@ -32,7 +31,6 @@
 
 .content {
   width: 100%;
-  
   display: flex;
   justify-content: center;
   align-items: center;
